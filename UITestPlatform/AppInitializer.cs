@@ -14,7 +14,7 @@ namespace UITestPlatform
             {
                 return ConfigureApp
                     .Android
-                    .StartApp();
+                    .ApkFile(@"C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest.Android\bin\Release\com.companyname.AppUITest.apk").StartApp();
             }
 
             return ConfigureApp

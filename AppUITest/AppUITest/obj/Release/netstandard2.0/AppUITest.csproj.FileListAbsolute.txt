@@ -1,0 +1,15 @@
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\bin\Release\netstandard2.0\AppUITest.deps.json
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\bin\Release\netstandard2.0\AppUITest.dll
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\bin\Release\netstandard2.0\AppUITest.pdb
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\obj\Release\netstandard2.0\AppUITest.csprojResolveAssemblyReference.cache
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\obj\Release\netstandard2.0\AppUITest.csproj.CoreCompileInputs.cache
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\obj\Release\netstandard2.0\AppUITest.App.xaml.g.cs
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\obj\Release\netstandard2.0\AppUITest.Views.AboutPage.xaml.g.cs
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\obj\Release\netstandard2.0\AppUITest.Views.ItemDetailPage.xaml.g.cs
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\obj\Release\netstandard2.0\AppUITest.Views.ItemsPage.xaml.g.cs
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\obj\Release\netstandard2.0\AppUITest.Views.MainPage.xaml.g.cs
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\obj\Release\netstandard2.0\AppUITest.Views.NewItemPage.xaml.g.cs
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\obj\Release\netstandard2.0\AppUITest.AssemblyInfoInputs.cache
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\obj\Release\netstandard2.0\AppUITest.AssemblyInfo.cs
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\obj\Release\netstandard2.0\AppUITest.dll
+C:\Users\ThLongLy\source\repos\AppUITest\AppUITest\AppUITest\obj\Release\netstandard2.0\AppUITest.pdb

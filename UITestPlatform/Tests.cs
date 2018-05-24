@@ -48,17 +48,10 @@ namespace UITestPlatform
             app.EnterText("txtDesc", b);
             app.DismissKeyboard();
             app.Tap(x => x.Text("Save"));
-            //app.WaitForElement(x => x.Text("EA"));
-            //app.ScrollDownTo(x => x.Text("EA"));
-            //var elementCount = app.Query(x => x.Id("recyclerView").All().Text("EA")).Count();
-            //Assert.That(elementCount, Is.EqualTo(1), "There is no such element being added in app list");
+            
             app.SwipeRightToLeft();
 
             app.SwipeLeftToRight();
-
-            app.Tap(x => x.Text(a));
-
-            app.Back();
         }
     }
 }

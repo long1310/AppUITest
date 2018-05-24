@@ -1,0 +1,16 @@
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\bin\Release\UITestPlatform.dll
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\bin\Release\UITestPlatform.pdb
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\bin\Release\AppUITest.Android.dll
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\bin\Release\nunit.framework.dll
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\bin\Release\Xamarin.UITest.dll
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\bin\Release\AppUITest.dll
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\bin\Release\AppUITest.Android.pdb
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\bin\Release\nunit.framework.pdb
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\bin\Release\nunit.framework.xml
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\bin\Release\Xamarin.UITest.xml
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\bin\Release\AppUITest.pdb
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\obj\Release\UITestPlatform.csprojResolveAssemblyReference.cache
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\obj\Release\UITestPlatform.csproj.CoreCompileInputs.cache
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\obj\Release\UITestPlatform.csproj.CopyComplete
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\obj\Release\UITestPlatform.dll
+C:\Users\ThLongLy\source\repos\AppUITest\UITestPlatform\obj\Release\UITestPlatform.pdb
